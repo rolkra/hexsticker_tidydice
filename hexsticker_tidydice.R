@@ -1,4 +1,5 @@
 library(tidyverse)
+library(tidydice)
 library(hexSticker)
 
 # white dice
